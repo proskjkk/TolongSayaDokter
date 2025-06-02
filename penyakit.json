@@ -1,0 +1,25 @@
+{
+  "database_penyakit": [
+    {
+    "nama": "Flu",
+    "gejala": ["demam", "batuk", "pilek", "sakit_kepala"],
+    "tingkat": "ringan",
+    "saran" : "Lebih banyak istirahat (tidur) dan minum obat pilek"
+    }, {
+	"nama" : "Radang",
+	"gejala" : ["sakit_tenggorokan", "pilek", "demam", "rasa_lelah"],
+	"tingkat" : "ringan",
+	"saran" : "Minum antibiotik dan istirahat yang cukup"
+    },{
+    "nama" : "Demam_berdarah",
+	"gejala" : ["mual", "ruam", "sakit_kepala", "Nyeri_otot"],
+	"tingkat" : "tinggi",
+	"saran" : "Segera pergi kerumah sakit untuk diobati oleh dokter"
+    },{
+    "nama" : "diabetes",
+	"gejala" : ["sering_haus", "mulut_pahit", "luka_sulit_sembuh", "kesemutan"],
+	"tingkat" : "tinggi",
+	"saran" : "Segera konsultasi kedokter agar bisa mendapatkan perawatan yang baik"
+    }
+  ]
+}
